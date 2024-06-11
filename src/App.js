@@ -3,7 +3,7 @@ import Header from './components/Header/header';
 import Form from './components/Form/form';
 import ItemList from './components/ItemList/itemList';
 import Footer from './components/Footer/footer';
-import './app.css'; 
+import './App.css'; 
 
 class App extends Component {
   constructor(props) {
