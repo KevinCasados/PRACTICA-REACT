@@ -1,3 +1,26 @@
+# PRACTICA-REACT
+
+## Descripción del Proyecto
+**PRACTICA-REACT** es un proyecto desarrollado como parte del aprendizaje de React. Este repositorio incluye un ejemplo práctico de un **Creador de Lista Sencillo**, el cual permite agregar elementos a una lista dinámica y eliminarlos si es necesario. Este proyecto se centra en comprender los conceptos fundamentales de React, como el uso del estado, componentes funcionales y eventos.
+
+## Tecnologías Utilizadas
+- **Frontend:**
+  - React.js
+  - JavaScript
+  - CSS
+
+## Funcionalidades Destacadas
+- **Creador de Lista Dinámica:** Permite al usuario agregar elementos a una lista y eliminarlos.
+- **Gestión de Estado:** Uso de hooks como `useState` para manejar el estado de la lista.
+- **Interactividad:** Implementación de eventos de clic y manejo de formularios en React.
+
+## Instrucciones de Instalación y Uso
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/KevinCasados/PRACTICA-REACT.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
